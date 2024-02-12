@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a third year computing science student at University of Alberta, passionate about all thing SWE, AI, and building robust applications<br>
+I'm a third year computing science student at the University of Alberta, passionate about all things SWE, AI, and building robust applications<br>
 🔭 I’m currently working on building a social media application for my second SWE experience<br>
 🌱 I’m currently learning AI search and planning, along with product management in SWE<br>
 

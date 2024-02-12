@@ -1,5 +1,7 @@
 # 💫 About Me:
-I'm a third year computing science student at University of Alberta, passionate about all thing SWE, AI, and building robust applications<br>🔭 I’m currently working on building a social media application for my second SWE experience<br>🌱 I’m currently learning AI search and planning, along with product management in SWE<br>
+I'm a third year computing science student at University of Alberta, passionate about all thing SWE, AI, and building robust applications<br>
+🔭 I’m currently working on building a social media application for my second SWE experience<br>
+🌱 I’m currently learning AI search and planning, along with product management in SWE<br>
 
 
 ## 🌐 Socials:
@@ -15,7 +17,7 @@ I'm a third year computing science student at University of Alberta, passionate 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=tadrosv&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---

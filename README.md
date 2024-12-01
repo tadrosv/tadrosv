@@ -1,7 +1,10 @@
 # 💫 About Me:
-I'm a third year computing science student at the University of Alberta, passionate about all things SWE, AI, and building robust applications<br>
-🔭 I’m currently creating a mockup of an app to present to an international organization, hopefully resulting in my 3rd SWE experience!<br>
-🌱 I’m currently looking into blockchains<br>
+I'm a fourth year computing science student at the University of Alberta, passionate about all things SWE, AI, and building robust applications<br>
+
+🔭 I'm currently workin part time as a software dev for a non-profit org for an app that pitched, mocked, and presented!<br>
+🌱 I’m currently:
+  - conducting a comparitive study on machine learning models predicting results of English Premier League Football games<br>
+  - developing a social distribution network where posts can be viewed, commented, and liked from different servers<br>
 
 
 ## 🌐 Socials:

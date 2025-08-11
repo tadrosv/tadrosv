@@ -2,7 +2,8 @@
 I'm a fourth year computing science student at the University of Alberta, passionate about all things SWE, AI, and building robust applications<br>
 
 🔭 I'm currently workin part time as a software dev for a non-profit org developing an app that I pitched, mocked, and presented to steakholders!<br>
-🌱 I’m currently:
+🌱 What I've done recently:
+  - Working an Internship within Tech Consulting
   - Conducting a comparitive study on machine learning models predicting results of English Premier League Football games<br>
   - Developing a social distribution network where posts can be viewed, commented, and liked from different servers<br>
 

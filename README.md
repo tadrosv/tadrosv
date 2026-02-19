@@ -1,5 +1,5 @@
 # 💫 About Me:
-Graduate from University of Alberta. Interesets include machine learning, agentic AI, and software engineering<br>
+Graduate from University of Alberta. Interests include machine learning, agentic AI, and software engineering<br>
 
 🔭 AI consulting analyst <br>
 🌱 What I've done recently:

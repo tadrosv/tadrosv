@@ -2,11 +2,6 @@
 Graduate from University of Alberta. Interests include machine learning, agentic AI, and software engineering<br>
 
 🔭 AI consulting analyst <br>
-🌱 What I've done recently:
-  - Proposed, developed, and delivered a user-centric registration management system 
-  - Conducted a comparitive study on machine learning models predicting results of English Premier League Football games<br>
-  - Developed a CRUD social distribution network <br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/victor-tadros) 
